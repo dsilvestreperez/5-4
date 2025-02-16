@@ -1,0 +1,20 @@
+Console.WriteLine("Welcome to the cell center application");
+
+public class program
+
+{
+
+    public void Main()
+
+    {
+
+        var customer = new List<int>() { add customer, view queue, exit, enter name };
+
+
+        customer.add(enter name);// the servise from for the most part
+
+
+       
+        Console.WriteLine("next");
+    }
+}
